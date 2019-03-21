@@ -1,3 +1,3 @@
 # JavaLearning
 
-##JAVA Derslerinde İşlediğimiz Konuların Örnek Kodları
+## JAVA Derslerinde İşlediğimiz Konuların Örnek Kodları
